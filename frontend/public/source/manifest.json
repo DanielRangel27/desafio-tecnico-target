@@ -1,0 +1,110 @@
+[
+  {
+    "grupo": "Backend · C# (.NET 8)",
+    "arquivos": [
+      {
+        "caminho": "backend/TargetDesafio.Api/Program.cs",
+        "linhas": 41
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/Models/Dtos.cs",
+        "linhas": 66
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/Services/ComissaoService.cs",
+        "linhas": 87
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/Services/EstoqueService.cs",
+        "linhas": 88
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/Services/JurosService.cs",
+        "linhas": 62
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/Controllers/DesafiosController.cs",
+        "linhas": 82
+      },
+      {
+        "caminho": "backend/TargetDesafio.Api/TargetDesafio.Api.csproj",
+        "linhas": 15
+      },
+      {
+        "caminho": "backend/Dockerfile",
+        "linhas": 14
+      }
+    ]
+  },
+  {
+    "grupo": "Testes · xUnit",
+    "arquivos": [
+      {
+        "caminho": "backend/TargetDesafio.Tests/DesafiosTests.cs",
+        "linhas": 101
+      }
+    ]
+  },
+  {
+    "grupo": "Frontend · Angular",
+    "arquivos": [
+      {
+        "caminho": "frontend/src/app/app.ts",
+        "linhas": 68
+      },
+      {
+        "caminho": "frontend/src/app/app.routes.ts",
+        "linhas": 32
+      },
+      {
+        "caminho": "frontend/src/app/core/api.service.ts",
+        "linhas": 82
+      },
+      {
+        "caminho": "frontend/src/app/core/perfil.ts",
+        "linhas": 20
+      },
+      {
+        "caminho": "frontend/src/app/pages/apresentacao/apresentacao.ts",
+        "linhas": 76
+      },
+      {
+        "caminho": "frontend/src/app/pages/desafio1/desafio1.ts",
+        "linhas": 155
+      },
+      {
+        "caminho": "frontend/src/app/pages/desafio2/desafio2.ts",
+        "linhas": 132
+      },
+      {
+        "caminho": "frontend/src/app/pages/desafio3/desafio3.ts",
+        "linhas": 88
+      },
+      {
+        "caminho": "frontend/src/app/pages/codigo/codigo.ts",
+        "linhas": 105
+      },
+      {
+        "caminho": "frontend/src/environments/environment.ts",
+        "linhas": 14
+      },
+      {
+        "caminho": "frontend/src/styles.css",
+        "linhas": 229
+      },
+      {
+        "caminho": "frontend/vercel.json",
+        "linhas": 8
+      }
+    ]
+  },
+  {
+    "grupo": "Documentação",
+    "arquivos": [
+      {
+        "caminho": "plan.md",
+        "linhas": 194
+      }
+    ]
+  }
+]
