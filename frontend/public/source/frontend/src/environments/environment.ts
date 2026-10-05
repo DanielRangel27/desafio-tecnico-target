@@ -3,7 +3,7 @@
  * - Local: http://localhost:5080
  * - Produção: defina a URL do serviço no Render/Railway em PRODUCTION_API_URL.
  */
-const PRODUCTION_API_URL = 'https://target-desafio-api.onrender.com';
+const PRODUCTION_API_URL = 'https://desafio-tecnico-target.onrender.com';
 
 const isLocal =
   typeof location !== 'undefined' && ['localhost', '127.0.0.1'].includes(location.hostname);
